@@ -1,0 +1,11 @@
+import { PageNotFound } from "@/components";
+
+const NotFound = () => {
+  return (
+    <div>
+      <PageNotFound />
+    </div>
+  );
+};
+
+export default NotFound;
